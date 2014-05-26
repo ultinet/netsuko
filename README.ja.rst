@@ -14,6 +14,7 @@
 
 See one of:
 
+- `WHOAMI <docs/ja/WHOAMI.ja.rst>`_ - キャラクター設定
 - `ガイドライン <docs/ja/GUIDELINES.ja.rst>`_ - 利用ガイドライン
 
 ----

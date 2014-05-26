@@ -14,6 +14,7 @@ Ultinet Netsuko
 
 See one of:
 
+- `WHOAMI <docs/en/WHOAMI.rst>`_ - What is her personality like?
 - `GUIDELINES <docs/en/GUIDELINES.rst>`_  - Usage guidelines
 
 ----
