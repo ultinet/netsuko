@@ -4,6 +4,14 @@
 
 **ねつこ (Netsuko)** は `株式会社アルティネット <http://www.ultinet.co.jp/>`_ の公式マスコットです。
 
+.. image:: images/minifies/netsuko_sd.png
+   :width: 360px
+   :align: left
+
+.. image:: images/minifies/netsuko.png
+   :width: 360px
+   :align: left
+
 ----
 
 .. image:: http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
