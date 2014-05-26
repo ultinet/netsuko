@@ -12,6 +12,10 @@
    :width: 360px
    :align: left
 
+See one of:
+
+- `ガイドライン <docs/ja/GUIDELINES.ja.rst>`_ - 利用ガイドライン
+
 ----
 
 .. image:: http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
@@ -21,6 +25,8 @@
 
 ライセンスは `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_
 が適用されます。
+
+ライセンスについての詳細は `ガイドラインのライセンス項 <docs/ja/GUIDELINES.ja.rst#ライセンス>`_ をご覧ください。
 
 .. image:: http://www.ultinet.co.jp/img/ultinet_logo4b.jpg
    :target: http://www.ultinet.co.jp/
